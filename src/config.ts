@@ -15,6 +15,7 @@ export const siteConfig: SiteConfig = {
     enable: false,
     src: 'assets/images/demo-banner.png',
   },
+  description: 'my personal blog',
 }
 
 export const navBarConfig: NavBarConfig = {
