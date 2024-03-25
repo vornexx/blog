@@ -17,7 +17,7 @@
 - Mod at [pfpfinder.com](https://pfpfinder.com) (join their server [here](https://discord.gg/aNc2pVGxXz))
 - For whatever reason (just dm me, im really bored lmao), you can contact me via [on discord](https://discord.com/users/1149438819834269856) or my [email](mailto:ajay.ramnath@courvix.com)!
 - Tryhard roblox player, still ass at every game I touch. (i need [friends](https://www.roblox.com/users/1016710675) :') )
-- I have a [%pink% guns.lol %%](https://guns.lol/vornexx), a [%pink% bento.me %%](https://bento.me/vornexx) and an [Anilist](https://anilist.co/user/vornexx) page, just for fun lmao.
+- I have a [guns.lol](https://guns.lol/vornexx), a [bento.me](https://bento.me/vornexx) and an [Anilist](https://anilist.co/user/vornexx) page, just for fun lmao.
 - I  have a guest book [here](https://vornexx.123guestbook.com/) where you can write whatever you want, whether it be anonymous or not! 💖
 
 
