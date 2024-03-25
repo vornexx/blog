@@ -7,6 +7,8 @@ category: Blog Post
 draft: false
 ---
 
+> Cover image source: [Source]("https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce5b19dc-94d0-477e-df4a-d8eef4364a00/width=450/00351-471778445.0-_lora_animemix_v3_offset_1_%20masterpiece,%20best%20quality,%201girl,%20solo,%20light%20smile,%20mountain,%20lake,%20meadow,%20panorama,%20jacket,%20kneeh.jpeg")
+
 ## I guess I should start by welcoming you to this blog,
 
 #### About me 
