@@ -1,9 +1,14 @@
 ---
 title: Fuwari x FrontmatterCMS
-published: 2024-03-25
+published: 2024-03-26T04:00:00.000Z
 description: A short, simple breakdown of how they work and the setup process.
 image: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c17819a4-a120-4ed6-d70a-3a1a6aec9f00/original=true/202897.jpeg
-tags: [Markdown, Blog, Posts, Setup, Guide]
+tags:
+   - Markdown
+   - Blog
+   - Posts
+   - Setup
+   - Guide
 category: Blog Post
 draft: false
 ---
