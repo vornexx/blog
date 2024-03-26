@@ -35,9 +35,9 @@ Fuwari is a blog template that is built with Astro. For the things that are not 
 5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/).
 
 #### Deployment settings :
-**Framework : `Astro`**
-**Build command : `npm run build`**
-**Build output directory: `dist`**
+- **Framework : `Astro`**
+- **Build command : `npm run build`**
+- **Build output directory: `dist`**
 
 ### What is the Fuwari Frontmatter of the posts?
 
