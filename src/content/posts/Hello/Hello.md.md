@@ -22,4 +22,4 @@ I guess that's all, I don't really have much to post as of right now.
 
 ## Bye 💖
 
-<iframe width="100%" height="468" src="https://cdn-vornexx.vercel.app/calm.mp4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://short.ink/Qp9bLbGs0M" frameborder="0" scrolling="0" allowfullscreen></iframe>
