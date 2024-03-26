@@ -7,8 +7,8 @@ tags:
     - Markdown
     - Setup
     - Guide
-category: Setup, Guide
 draft: false
+category: Setup & Guide
 ---
 
 ## What is Zipline?
