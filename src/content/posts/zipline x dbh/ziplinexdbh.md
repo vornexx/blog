@@ -8,7 +8,7 @@ tags:
     - Setup
     - Guide
 draft: false
-category: Setup & Guide
+category: Setup
 ---
 
 ## What is Zipline?
