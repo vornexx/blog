@@ -22,4 +22,4 @@ I guess that's all, I don't really have much to post as of right now.
 
 ## Bye 💖
 
-<iframe width="640" height="360" src="https://short.ink/Qp9bLbGs0M" frameborder="0" scrolling="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://cdn.videy.co/TJpHb8vJ.mp4" frameborder="0" scrolling="0" allowfullscreen></iframe>
