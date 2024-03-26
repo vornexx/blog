@@ -47,8 +47,8 @@ export const profileConfig: ProfileConfig = {
       url: 'https://vornexx.is-a.dev',
     },
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',
+      name: 'XTwitter',
+      icon: 'fa6-brands:x-twitter',
       url: 'https://twitter.com/vornexx_',
     },
     {
