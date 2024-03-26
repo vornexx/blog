@@ -37,14 +37,19 @@ export const profileConfig: ProfileConfig = {
   bio: 'i like tech, some games, and well thats all',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com/vornexx_',
+      name: 'Discord',
+      icon: 'fa6-brands:discord',
+      url: 'https://discord.com/users/1149438819834269856',
     },
     {
       name: 'Hashnode',
       icon: 'fa6-brands:hashnode',
       url: 'https://vornexx.is-a.dev',
+    },
+    {
+      name: 'Twitter',
+      icon: 'fa6-brands:twitter',
+      url: 'https://twitter.com/vornexx_',
     },
     {
       name: 'GitHub',
