@@ -47,6 +47,11 @@ export const profileConfig: ProfileConfig = {
       url: 'https://vornexx.is-a.dev',
     },
     {
+      name: 'Spotify',
+      icon: 'fa6-brands:spotify',
+      url: 'https://spotify.vornexx.is-a.dev',
+    },
+    {
       name: 'XTwitter',
       icon: 'fa6-brands:x-twitter',
       url: 'https://twitter.com/vornexx_',
