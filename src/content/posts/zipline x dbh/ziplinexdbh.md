@@ -7,7 +7,7 @@ tags:
     - Markdown
     - Setup
     - Guide
-category: Blog Post
+category: Setup, Guide
 draft: false
 ---
 
