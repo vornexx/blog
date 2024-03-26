@@ -17,6 +17,8 @@ category: Setup
 
 ## How do I setup zipline on DBH?
 
-<iframe width="640" height="360" src="https://cdn-vornexx.vercel.app/ZiplinexDBH%20setup.mp4" frameborder="0" scrolling="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MGu9qD4ZoDg?si=vvIsEajjUyCApuID" title="Video Player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> Credits to [Stefano Del Prete](https://www.youtube.com/@Stef_DP) for the video above. 💞
 
 #### (DM me if I should create an all-text setup guide.)
