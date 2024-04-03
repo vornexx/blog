@@ -14,7 +14,7 @@
 ![Spotify](https://api.statusbadges.me/badge/spotify/1149438819834269856?simple=true&style=for-the-badge&color=1c1c1c)
 ![VSC](https://api.statusbadges.me/badge/vscode/1149438819834269856?simple=true&style=for-the-badge&color=1c1c1c)
 - I'm a proud [AtlasOS](https://atlasos.net) user (I use atlas btw 🧑‍💻)
-- Mod at [pfpfinder.com](https://pfpfinder.com) (join their server [here](https://discord.gg/aNc2pVGxXz))
+- Mod at [pfpfinder.com](https://pfpfinder.com) (join their server [here)](https://discord.gg/aNc2pVGxXz)
 - For whatever reason (just dm me, im really bored lmao), you can contact me via [on discord](https://discord.com/users/1149438819834269856) or my [email](mailto:ajay.ramnath@courvix.com)!
 - Tryhard roblox player, still ass at every game I touch. (i need [friends](https://www.roblox.com/users/1016710675) :') )
 - I have a [guns.lol](https://guns.lol/vornexx), a [bento.me](https://bento.me/vornexx) and an [Anilist](https://anilist.co/user/vornexx) page, just for fun lmao.
