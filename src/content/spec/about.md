@@ -2,7 +2,7 @@
 # About
 
 `Name : Ajay`
-`Pronouns : he/him/any ♂️`
+`Pronouns : he/him ♂️`
 `From : Trinidad 🇹🇹` 
      
 
@@ -12,6 +12,9 @@
 
 ![Playing](https://api.statusbadges.me/badge/playing/1149438819834269856?simple=true&style=for-the-badge&color=1c1c1c)
 ![Spotify](https://api.statusbadges.me/badge/spotify/1149438819834269856?simple=true&style=for-the-badge&color=1c1c1c)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bj9xmj4pmlqa86zym011zb1eb&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=2f4056&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bj9xmj4pmlqa86zym011zb1eb&redirect=true)
+
 ![VSC](https://api.statusbadges.me/badge/vscode/1149438819834269856?simple=true&style=for-the-badge&color=1c1c1c)
 - I'm a proud [AtlasOS](https://atlasos.net) user (I use atlas btw 🧑‍💻)
 - Mod at [pfpfinder.com](https://pfpfinder.com), join their server [here](https://discord.gg/aNc2pVGxXz)
