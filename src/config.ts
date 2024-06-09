@@ -31,7 +31,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',
+  avatar: 'https://vornexx.is-a.dev/art/vornexx.webp',
   name: 'vornexx',
   bio: 'i like tech, some games, and well thats all',
   links: [
