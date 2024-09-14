@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
   themeHue: 250,
   banner: {
     enable: false,
-    src: 'https://vornexx.is-a.dev/art/vornexx.webp',
+    src: 'https://vnx.pages.dev/avatar.webp',
   },
 }
 
