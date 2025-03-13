@@ -6,7 +6,12 @@
 `From : Trinidad 🇹🇹` 
      
 
-###### You can check my main site at   https://vornexx.is-a.dev !💝
+###### You can check my main site at   https://vornexx.is-a.dev
+
+⏵9 23 9 19 8 9 23 1 19 14 5 22 5 18 2 15 18 14 (A1Z26 Encoded)
+⏵`contact: vornexx@disroot.org`
+⏵`💻: SF314-512T-56CT (i5-1240P)`
+⏵`📱: Google Pixel 7a (lynx)`
 
 ![Lanyard](https://lanyard.cnrad.dev/api/1149438819834269856?bg=1c1c1c&amp;borderRadius=25px)
 
