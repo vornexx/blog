@@ -15,11 +15,9 @@
 ![VSC](https://api.statusbadges.me/badge/vscode/1149438819834269856?simple=true&style=for-the-badge&color=1c1c1c)
 
 - I'm a proud [AtlasOS](https://atlasos.net) user (I use atlas btw 🧑‍💻)
-- Mod at [pfpfinder.com](https://pfpfinder.com), join their server [here](https://discord.gg/aNc2pVGxXz)
-- For whatever reason (just dm me, im really bored lmao), you can contact me via [on discord](https://discord.com/users/1149438819834269856) or my [email](mailto:ajay.ramnath@courvix.com)!
-- Tryhard roblox player, still ass at every game I touch. (i need [friends](https://www.roblox.com/users/1016710675) :') )
-- I have a [guns.lol](https://guns.lol/vornexx), a [bento.me](https://bento.me/vornexx) and an [Anilist](https://anilist.co/user/vornexx) page, just for fun lmao.
-- I  have a guest book [here](https://vornexx.123guestbook.com/) where you can write whatever you want, whether it be anonymous or not! 💖
+- My anilist profile [here](https://anilist.co/user/vornexx)
+- For whatever reason (just dm me, im really bored lmao), you can contact me via [on discord](https://discord.com/users/1149438819834269856) or my [email](mailto:vornexx@disroot.org)!
+
 
 
 #### Bookmarks 📕✏️
@@ -33,7 +31,7 @@
 - `🗃️` [catbox.moe](https://catbox.moe) (Unlimited Free Cloud storage, while having a `file *size*` limit, there is no limit for how many files that can be uploaded)
 - `🗄️` [zipline.diced.sh](https://zipline.diced.sh) (`A ShareX/file upload server` that is easy to use(once setup), with an `easy-ish setup!` I strongly recommend you use a hosting server like [Danbot Host](https://danbot.host/) for `free` 🤑 if you do not own your own server, Use this video for reference: [Zipline & DBH Setup Guide](https://cdn-vornexx.vercel.app/ZiplinexDBH%20setup.mp4) (may take a while to load video))
 - `🧱` [wall.alphacoders.com](https://wall.alphacoders.com) (Simple to use wallpaper hub for any device)
-- `📺` [FMHY](https://fmhy.net) (The largest collection of free stuff on the internet!)
+- `📺` [FMHY](https://fmhy.net) (The largest collection of free stuff on the internet.)
 
 
 #### Mastering the art of interacting in any Discord Support Server 🛂
