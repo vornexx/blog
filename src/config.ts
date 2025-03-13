@@ -31,7 +31,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'https://vornexx.is-a.dev/art/vornexx.webp',
+  avatar: 'https://avatars.githubusercontent.com/u/79860992?s=4096',
   name: 'vornexx',
   bio: 'i like tech, some games, and well thats all',
   links: [
@@ -49,11 +49,6 @@ export const profileConfig: ProfileConfig = {
       name: 'Spotify',
       icon: 'fa6-brands:spotify',
       url: 'https://spotify.vornexx.is-a.dev',
-    },
-    {
-      name: 'XTwitter',
-      icon: 'fa6-brands:x-twitter',
-      url: 'https://twitter.com/vornexx_',
     },
     {
       name: 'GitHub',
