@@ -23,7 +23,6 @@
 #### Bookmarks 📕✏️
 
 - `💻` [atlasos.net](https://atlasos.net) (`Lightweight version of Windows` with it's own Atlas folder for additional customizability)
-- `💻` [pfpfinder.com](https://pfpfinder.com) (Simple to use pfp finder https://discord.gg/aNc2pVGxXz)
 - `🔗` [rb.gy](https://rb.gy) (Clean Link Shortener)
 - `🔍` [LetMeGoogleThat.com](https://letmegooglethat.com) (For all those people that find it more convenient to bother you with `their question` than to `google it for themselves`.)
 - `🛡️` [shields.io](https://shields.io) (GitHub styled badges for tracking and displaying Discord Presences)
